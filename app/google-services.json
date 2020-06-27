@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760692516331",
+    "firebase_url": "https://facetracker-868e9.firebaseio.com",
+    "project_id": "facetracker-868e9",
+    "storage_bucket": "facetracker-868e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760692516331:android:aed111538933f8c7",
+        "android_client_info": {
+          "package_name": "com.example.parthpatel.face_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760692516331-e6r3a1mn9g0vt561hqatbd06q762sq91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parthpatel.face_tracker",
+            "certificate_hash": "94eecc979d9918d7229975d4cc6e93971ee1591a"
+          }
+        },
+        {
+          "client_id": "760692516331-bp64259p4pqt2p1lhgc7p7no254al4bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUjzr_TcinA4SpprS0s2lROKc_jqXEzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760692516331-bp64259p4pqt2p1lhgc7p7no254al4bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
